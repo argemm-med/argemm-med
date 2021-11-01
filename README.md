@@ -6,8 +6,10 @@ I am the co-founder of a startup project for the development and implementation 
 
 ### 🤝 Connect with me
 [<img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=fff" />][linkedin]
+[<img alt="Telegram" src="https://img.shields.io/badge/telegram-0088CC.svg?&style=for-the-badge&logo=telegram&logoColor=fff" />][telegram]
  - Telegram, Skype, Мобильный телефон - @Argemm +996 703 070 917 📲
  - Email - argemm7@gmail.com 📧
 
 
 [linkedin]: https://www.linkedin.com/in/argemm/
+[telegram]: https://t.me/Argemm
