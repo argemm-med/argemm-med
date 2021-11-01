@@ -2,14 +2,17 @@
 My name is Argen 😃
 ### About
 
+I write React interfaces in conjunction with Redux | Mobx, in parallel I train in backend development on the NodeJS c NestJS platform. A great desire to master NextJS later.
 I am the co-founder of a startup project for the development and implementation of bionic prostheses of Kyrgyz production - [click](https://www.youtube.com/watch?v=180-WH-mf8Y&t=584s) 🦾
 
 ### 🤝 Connect with me
-[<img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=fff" />][linkedin]
+[<img alt="Whatsapp" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=fff" />][linkedin]
 [<img alt="Telegram" src="https://img.shields.io/badge/telegram-0088CC.svg?&style=for-the-badge&logo=telegram&logoColor=fff" />][telegram]
- - Telegram, Skype, Мобильный телефон - @Argemm +996 703 070 917 📲
- - Email - argemm7@gmail.com 📧
+[<img alt="whatsapp" src="https://img.shields.io/badge/whatsapp-4.svg?&style=for-the-badge&logo=whatsapp&logoColor=fff" />][whatsapp]
+[<img alt="gmail" src="https://img.shields.io/badge/Gmail-ff0000.svg?&style=for-the-badge&logo=google&logoColor=fff" />][email]
 
 
 [linkedin]: https://www.linkedin.com/in/argemm/
 [telegram]: https://t.me/Argemm
+[whatsapp]: https://wa.me/996703070917
+[email]: https://mailto:argemm7@gmail.com
