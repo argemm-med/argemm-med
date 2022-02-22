@@ -28,4 +28,4 @@ Back:<br />
 [whatsapp]: https://wa.me/996703070917
 [email]: https://mailto:argemm7@gmail.com
 
-<-- https://ileriayo.github.io/markdown-badges/ -->
+<!-- https://ileriayo.github.io/markdown-badges/ -->
