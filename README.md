@@ -27,3 +27,5 @@ Back:<br />
 [telegram]: https://t.me/Argemm
 [whatsapp]: https://wa.me/996703070917
 [email]: https://mailto:argemm7@gmail.com
+
+<-- https://ileriayo.github.io/markdown-badges/ -->
