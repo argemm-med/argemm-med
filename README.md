@@ -1,6 +1,6 @@
 ## Hi, thanks for visiting my profile
 My name is Argen 😃
-> I am the co-founder of a startup project for the development and  implementation of bionic prostheses of Kyrgyz production -  [click](https://www.youtube.com/watch?v=180-WH-mf8Y&t=584s) 🦾
+> I am the co-founder of a startup project for the development and  implementation <br/> of bionic prostheses of Kyrgyz production -  [click](https://www.youtube.com/watch?v=180-WH-mf8Y&t=584s) 🦾
 
 Front:<br/> 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
