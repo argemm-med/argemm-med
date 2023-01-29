@@ -8,8 +8,6 @@ I'm **front-end engineer**
 
 🔭 I’m currently working on O!NurTelecom
 
-### Skills
-
 Platform & Language
 
 ![](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
